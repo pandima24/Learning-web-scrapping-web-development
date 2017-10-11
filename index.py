@@ -1,53 +1,19 @@
 from bs4 import BeautifulSoup
 import urllib2
 
-# page = urllib2.urlopen('http://workerscompensation.com/').read()
-# soup = BeautifulSoup(page)
-# soup.prettify()
-# for anchor in soup.findAll('a', href=True):
-#     stateLink = anchor['href']
-#     if '../' in stateLink:
-#         print 'http://workerscompensation.com/' + stateLink.replace('../','')
 
-states = [
-    'alabama',
-    'alaska',
-    'arizona',
-    'arkansas',
-    'california',
-    'colorado',
-    'connecticut',
-    'delaware',
-    'florida',
-    'georgia',
-    'hawaii',
-    'idaho',
-    'illinois',
-    'indiana',
-    'iowa',
-    'kansas',
-    'kentucky',
-    'louisiana',
-    'maine',
-    'maryland',
-    'massachusetts',
-    'michigan',
-    'minnesota',
-    'mississippi',
-    'missouri',
-    'montana',
-    'nebraska',
-    'nevada',
-    'new_hampshire',
-    'new_jersey',
-    'new_mexico',
-    'new_york',
-    'north_carolina',
-    'north_dakota',
-    'ohio',
-    'oklahoma',
-    'oregon',
-    'pennsylvania',
-    'rhode_island',
+import states
+import webPage
+import parseStateHomePhp
+import output
 
-]
+for state in states.name:
+    url = 'http://www.workerscompensation.com/regulations/statehome.php?state=' + state
+    #print url
+    html = webPage.open(url)
+    stateHomeLinks = parseStateHomePhp.getLinks(html)
+    #print stateHomeLinks
+    for stateDepartmentLink in stateHomeLinks:
+        output.writeToFile(state, stateDepartmentLink)
+    print '---------------------------------'
+

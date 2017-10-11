@@ -14,6 +14,6 @@ for state in states.name:
     stateHomeLinks = parseStateHomePhp.getLinks(html)
     #print stateHomeLinks
     for stateDepartmentLink in stateHomeLinks:
-        output.writeToFile(state, stateDepartmentLink)
+        output.writeToFile( state, stateDepartmentLink['title'], stateDepartmentLink['url'] )
     print '---------------------------------'
 

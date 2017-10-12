@@ -42,7 +42,7 @@ def finalText(title, url):
     paragrapph = summary  #.find_all('p')
     f.write('\n\n\n\n===================================================================\n')
     for item in title:
-        f.write('--->' + item)
+        f.write('--->' + item.encode('utf-8') )
     f.write('\n===================================================================\n')
     for p in paragrapph:
         if p.string is not None:

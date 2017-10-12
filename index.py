@@ -13,7 +13,11 @@ for state in states.name:
     html = webPage.open(url)
     stateHomeLinks = parseStateHomePhp.getLinks(html)
     #print stateHomeLinks
+    i = 0
     for stateDepartmentLink in stateHomeLinks:
+        if i == 0:
+            i = i+1
+            continue
         output.writeToFile( state, stateDepartmentLink['title'], stateDepartmentLink['url'] )
     print '---------------------------------'
 

@@ -49,5 +49,9 @@ def finalText(title, url):
             # print p.string.encode('utf-8')
             f.write( p.string.encode('utf-8') )
         else:
-            print p
-            f.write( p.text.encode('utf-8') )
+            for element in p.find_all('p'):
+                # print element.text
+                f.write( element.text.encode('utf-8') + '\n' )
+            if len(p.find_all('p'))<1:
+                print p.text
+                f.write( p.text.encode('utf-8') + '\n' )

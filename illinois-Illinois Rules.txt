@@ -1,0 +1,236 @@
+
+
+
+
+===================================================================
+--->illinois--->Illinois Rules--->PART 2026 ACCESS TO RECORDS OF THE WORKERS' COMPENSATION COMMISSION--->SUBPART A: INTRODUCTION--->Section 2026.105 Summary and Purpose
+===================================================================
+
+
+
+ 
+
+
+
+
+Section 2026.105 Summary and Purpose
+			a) This Part states the policy of the Workers' Compensation Commission (Commission) for making its records available for reasonable public inspection while, at the same time, protecting legitimate interests in confidentiality.
+			b) This Part:
+			1) Establishes the following classifications for records in the Commission's possession:
+			A) Records that shall be disclosed; and
+			B) Records that shall be withheld from disclosure;
+			2) Contains the procedures by which requesters may obtain records in the Commission's possession; and
+			3) Contains the procedures for claiming and determining that records submitted to the Commission are exempt from disclosure.
+
+
+
+
+
+
+
+
+===================================================================
+--->illinois--->Illinois Rules--->PART 2026 ACCESS TO RECORDS OF THE WORKERS' COMPENSATION COMMISSION--->SUBPART A: INTRODUCTION--->Section 2026.115 Definitions
+===================================================================
+
+
+
+ 
+
+
+
+
+Section 2026.115 Definitions
+			Terms not defined in this Section shall have the same meaning as in the Freedom of Information Act [5 ILCS 140]. The following definitions are applicable for purposes of this Part:
+			"Act" means the Illinois Workers' Compensation Act [820 ILCS 305].
+			"Chairman" means the Chairman of the Commission.
+			"Commercial purpose" means the use of any part of a record or records, or information derived from records, in any form for sale, resale, or solicitation or advertisement for sales or services. For purposes of this definition, requests made by news media and non-profit, scientific, or academic organizations shall not be considered to be made for a "commercial purpose" when the principal purpose of the request is:
+			to access and disseminate information concerning news and current or passing events;
+			for articles or opinion or features of interest to the public; or
+			for the purpose of academic, scientific, or public research or education. (Section 2(c-10) of FOIA)
+			"Commission" means the Workers' Compensation Commission as established by the Act and WODA.
+			"Copying" means the reproduction of any record by means of any photographic, electronic, mechanical, or other process, device or means now known or hereafter developed and available to the Commission. (Section 2(d) of FOIA)
+			"FOIA" means the Freedom of Information Act [5 ILCS 140].
+			"Freedom of Information Officer" or "FOI Officer" means an individual or individuals responsible for receiving and responding to requests for public records.
+			"News media" means a newspaper or other periodical issued at regular intervals, news service in paper or electronic form, radio station, television station, television network, community antenna television service, or person or
+			corporation engaged in making news reels or other motion picture news for public showing. (Section 2(f) of FOIA)
+			"Person" means any individual, corporation, partnership, firm, organization or association, acting individually or as a group. (Section 2(b) of FOIA)
+			"Private information" means unique identifiers, including a person's Social Security number, driver's license number, employee identification number, biometric identifiers, personal financial information, passwords or other access codes, medical records, home or personal telephone numbers, and personal email addresses. Private information also includes home address and personal license plates, except as otherwise provided by law or when compiled without possibility of attribution to any person. (Section 2(c-5) of FOIA)
+			"Public Access Counselor" means an individual appointed to that office by the Attorney General under Section 7 of the Attorney General Act [15 ILCS 205].
+			"Public body" means all legislative, executive, administrative, or advisory bodies of the State, State universities and colleges, counties, townships, cities, villages, incorporated towns, school districts and all other municipal corporations, boards, bureaus, committees or commissions of this State, any subsidiary bodies of any of the foregoing, including but not limited to committees and subcommittees thereof, and a School Finance Authority created under Article 1E of the School Code [105 ILCS 5]. (Section 2(a) of FOIA)
+			"Records" means all records, reports, forms, writings, letters, memoranda, books, papers, maps, photographs, microfilms, cards, tapes, recordings, electronic data processing records, electronic communications, recorded information and all other documentary materials pertaining to the transaction of public business, regardless of physical form or characteristics, having been prepared by or for, or having been or being used by, received by, in the possession of or under the control of the Commission. (Section 2(c) of FOIA)
+			"Recurrent requester" means a person that, in the 12 months immediately preceding the request, has submitted to the same public body a minimum of 50 requests for records, a minimum of 15 requests for records within a 30-day period, or a minimum of 7 requests for records within a 7 day period. For the purposes of this definition, requests made by news media and non-profit, scientific, or academic organizations shall not be considered in calculating the number of requests made in the time periods, in this definition when the principal purpose of the requests is to access and disseminate information concerning news and current or passing events, for articles of opinion or features of interest to the
+			public, or for the purpose of academic, scientific, or public research or education. For the purposes of this definition, "request" means a written document (or oral request, if the public body chooses to honor oral requests) that is submitted to a public body via personal delivery, mail, telefax, electronic mail, or other means available to the public body and that identifies the particular public record the requester seeks. One request may identify multiple records to be inspected or copied. (Section 2(g) of FOIA)
+			"Requester" is any person who has submitted to the Commission a written request, electronically or on paper, for records.
+			"Unwarranted invasion of personal privacy" means the disclosure of information that is highly personal or objectionable to a reasonable person and in which the subject's right to privacy outweighs any legitimate public interest in obtaining the information. (Section 7(1)(c) of FOIA)
+			"WODA" means the Illinois Workers' Occupational Diseases Act [820 ILCS 310].
+
+
+
+
+
+
+
+
+===================================================================
+--->illinois--->Illinois Rules--->PART 2026 ACCESS TO RECORDS OF THE WORKERS' COMPENSATION COMMISSION--->SUBPART B: CLASSIFICATION OF RECORDS--->Section 2026.205 Records that Will Be Disclosed
+===================================================================
+
+
+
+ 
+
+
+
+
+Section 2026.205 Records that Will Be Disclosed
+			Upon request meeting the requirements of this Part, the Commission shall disclose to the requester all records requested except that it shall not disclose certain records as provided in Section 2026.215 or 2026.225. Records covered under this Section shall include, but are not limited to:
+			a) Records of funds. All records relating to the obligation, receipt and use of public funds of the Commission are records subject to inspection and copying by the public. (Section 2.5 of FOIA)
+			b) Payrolls. Certified payroll records submitted to the Commission under Section 5(a)(2) of the Prevailing Wage Act [820 ILCS 130] are records subject to inspection and copying in accordance with the provisions of FOIA; except that contractors' and employees' addresses, telephone numbers, and Social Security numbers will be redacted by the Commission prior to disclosure. (Section 2.10 of FOIA)
+			c) Settlement and severance agreements. All settlement and severance agreements entered into by or on behalf of the Commission are records subject to inspection and copying by the public, provided that information exempt from disclosure under Section 2026.215 or 2026.225 may be redacted. (Section 2.20 of FOIA)
+
+
+
+
+
+
+
+
+===================================================================
+--->illinois--->Illinois Rules--->PART 2026 ACCESS TO RECORDS OF THE WORKERS' COMPENSATION COMMISSION--->SUBPART B: CLASSIFICATION OF RECORDS--->Section 2026.215 Records that Will Be Withheld from Disclosure
+===================================================================
+
+
+
+ 
+
+
+
+
+Section 2026.215 Records that Will Be Withheld from Disclosure
+			a) For exemptions from FOIA that are stated in FOIA, see Section 7(1) of the Act.
+			b) A record that is not in the possession of the Commission but is in the possession of a party with whom the Commission has contracted to perform a governmental function on behalf of the Commission, and that directly relates to the governmental function and is not otherwise exempt under FOIA, shall be considered a record of the Commission for purposes of Subpart C. (Section 7(2) of FOIA)
+
+
+
+
+
+
+
+
+===================================================================
+--->illinois--->Illinois Rules--->PART 2026 ACCESS TO RECORDS OF THE WORKERS' COMPENSATION COMMISSION--->SUBPART B: CLASSIFICATION OF RECORDS--->Section 2026.225 Statutory Exemptions
+===================================================================
+
+
+
+ 
+
+Section 2026.225 Statutory Exemptions
+For exemptions from FOIA that are stated in other statutes, see Section 7.5 of the Act.
+
+
+
+
+
+===================================================================
+--->illinois--->Illinois Rules--->PART 2026 ACCESS TO RECORDS OF THE WORKERS' COMPENSATION COMMISSION--->SUBPART B: CLASSIFICATION OF RECORDS--->Section 2026.235 Records Maintained Online
+===================================================================
+
+
+
+ 
+
+
+
+
+Section 2026.235 Records Maintained Online
+			a) Notwithstanding any provision of FOIA to the contrary, the Commission is not required to copy a public record that is published on the Commission's website. The Commission shall notify the requestor that the public record is available online and direct the requestor to the website where the record can be reasonably accessed.
+			b) If the person requesting the public record is unable to reasonably access the record online after being directed to the website pursuant to subsection (a), the requester may resubmit his or her request for the record, stating his or her inability to reasonably access the record on line, and the public body shall make the requested record available for inspection or copying. (Section 8.5 of FOIA)
+
+
+
+
+
+
+
+
+===================================================================
+--->illinois--->Illinois Rules--->PART 2026 ACCESS TO RECORDS OF THE WORKERS' COMPENSATION COMMISSION--->SUBPART C: PROCEDURES FOR REQUESTING RECORDS FROM THE COMMISSION--->Section 2026.305 Submittal of Requests for Records
+===================================================================
+
+
+
+ 
+
+
+
+
+Section 2026.305 Submittal of Requests for Records
+			a) Any request for public records should be submitted in writing to the FOI Officer of the Commission.
+			b) The Commission has one FOI Officer, located in the Chicago office.
+			c) Contact information for each FOI Officer can be found online at www. Illinois.gov/Pages/FOIAContacts.
+			d) FOIA requests may be submitted via mail, e-mail, fax, or hand delivery. Requests should be mailed or hand delivered to:
+			Workers' Compensation Commission
+			100 West Randolph Street, Suite 8-200
+			Chicago, Illinois 60601
+			Attn: FOI Officer
+			e) E-mailed requests should be sent to wcc.FOIA@illinois.gov, contain the request in the body of the e-mail, and indicate in the subject line of the e-mail that it contains a FOIA request. Faxed FOIA requests should be faxed to 312/814-3520, Attn: FOI Officer.
+
+
+
+
+
+
+
+
+===================================================================
+--->illinois--->Illinois Rules--->PART 2026 ACCESS TO RECORDS OF THE WORKERS' COMPENSATION COMMISSION--->SUBPART C: PROCEDURES FOR REQUESTING RECORDS FROM THE COMMISSION--->Section 2026.315 Information To Be Provided in Requests for Records
+===================================================================
+
+
+
+ 
+
+
+
+
+Section 2026.315 Information To Be Provided in Requests for Records
+			A request for records should include:
+			a) The complete name, mailing address and telephone number of the requester;
+			b) As specific a description as possible of the records sought. Requests that the Commission considers unduly burdensome or categorical may be denied. (See Section 3(g) of FOIA and Section 2026.415 of this Part.);
+			c) A statement as to the requested medium and format for the Commission to use in providing the records sought: for example, paper, specific types of digital or magnetic media, or videotape;
+			d) A statement as to the requested manner for the Commission to use in providing the records sought: for example, inspection at Commission headquarters or providing paper or electronic copies;
+			e) A statement as to whether the requester needs certified copies of all or any portion of the records, including reference to the specific documents that require certification; and
+			f) A statement as to whether the request is for a commercial purpose.
+
+
+
+
+
+
+
+
+===================================================================
+--->illinois--->Illinois Rules--->PART 2026 ACCESS TO RECORDS OF THE WORKERS' COMPENSATION COMMISSION--->SUBPART C: PROCEDURES FOR REQUESTING RECORDS FROM THE COMMISSION--->Section 2026.325 Requests for Records for Commercial Purposes
+===================================================================
+
+
+
+ 
+
+
+
+
+Section 2026.325 Requests for Records for Commercial Purposes
+			a) It is a violation of FOIA for a person to knowingly obtain a record for a commercial purpose without disclosing that it is for a commercial purpose if requested to do so by the Commission. (Section 3.1(c) of FOIA)
+			b) The Commission shall respond to a request for records to be used for a commercial purpose within 21 working days after receipt. The response shall:
+			1) Provide to the requester an estimate of the time required by the Commission to provide the records requested and an estimate of the fees to be charged, which the Commission may require the person to pay in full before copying the requested documents;
+			2) Deny the request pursuant to one or more of the exemptions set out in Section 2026.215 or 2026.225;
+			3) Notify the requester that the request is unduly burdensome and extend an opportunity to the requester to attempt to reduce the request to manageable proportions; or
+			4) Provide the records requested. (Section 3.1(a) of FOIA)
+			c) Unless the records are exempt from disclosure, the Commission shall comply with a request within a reasonable period considering the size and complexity of the request, and giving priority to records requested for non-commercial purposes. (Section 3.1(b) of FOIA)
+
+
+
+

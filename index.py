@@ -15,9 +15,8 @@ for state in states.name:
     #print stateHomeLinks
     i = 0
     for stateDepartmentLink in stateHomeLinks:
-        if i == 0:
-            i = i+1
-            continue
+        # if i == :
+        #     i = i+1
         output.writeToFile( state, stateDepartmentLink['title'], stateDepartmentLink['url'] )
     print '---------------------------------'
 
